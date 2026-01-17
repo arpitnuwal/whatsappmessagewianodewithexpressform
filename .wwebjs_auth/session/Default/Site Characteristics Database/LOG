@@ -1,3 +1,4 @@
-2026/01/17-16:30:52.326 3ce0 Reusing MANIFEST C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Site Characteristics Database/MANIFEST-000001
-2026/01/17-16:30:52.328 3ce0 Recovering log #3
-2026/01/17-16:30:52.329 3ce0 Reusing old log C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Site Characteristics Database/000003.log 
+2026/01/17-17:10:22.679 35e8 Creating DB C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Site Characteristics Database since it was missing.
+2026/01/17-17:10:25.719 35e8 Reusing MANIFEST C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Site Characteristics Database/MANIFEST-000001
+2026/01/17-17:10:25.724 35e8 Recovering log #3
+2026/01/17-17:10:25.728 35e8 Reusing old log C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Site Characteristics Database/000003.log 

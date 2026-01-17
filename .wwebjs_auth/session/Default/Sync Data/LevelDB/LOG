@@ -1,3 +1,4 @@
-2026/01/17-16:30:51.675 32d0 Reusing MANIFEST C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Sync Data\LevelDB/MANIFEST-000001
-2026/01/17-16:30:51.678 32d0 Recovering log #3
-2026/01/17-16:30:51.678 32d0 Reusing old log C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Sync Data\LevelDB/000003.log 
+2026/01/17-17:10:25.350 40f4 Creating DB C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Sync Data\LevelDB since it was missing.
+2026/01/17-17:10:25.751 40f4 Reusing MANIFEST C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/01/17-17:10:25.755 40f4 Recovering log #3
+2026/01/17-17:10:25.756 40f4 Reusing old log C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Sync Data\LevelDB/000003.log 

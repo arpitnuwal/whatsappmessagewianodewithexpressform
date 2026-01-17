@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Send Image with Text</title>
+</head>
+<body>
+  <h2>Send Image + Text on WhatsApp</h2>
+
+  <% if (isReady) { %>
+    <p style="color: green;">WhatsApp Ready ✅</p>
+  <% } else { %>
+    <p style="color: red;">WhatsApp Not Ready ❌ (Scan QR)</p>
+  <% } %>
+
+  <form action="/send-image" method="POST" enctype="multipart/form-data">
+    <input type="text" name="number" placeholder="Enter number (e.g., 919876543210)" required>
+    <br><br>
+
+    <input type="file" name="image" accept="image/*" required>
+    <br><br>
+
+    <textarea name="caption" placeholder="Type your text message"></textarea>
+    <br><br>
+
+    <button type="submit" <% if (!isReady) { %> disabled <% } %> >Send Image</button>
+  </form>
+</body>
+</html>

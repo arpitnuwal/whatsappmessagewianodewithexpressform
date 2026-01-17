@@ -1,3 +1,4 @@
-2026/01/17-16:30:52.761 32d0 Reusing MANIFEST C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\shared_proto_db/MANIFEST-000001
-2026/01/17-16:30:52.762 32d0 Recovering log #3
-2026/01/17-16:30:52.767 32d0 Reusing old log C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\shared_proto_db/000003.log 
+2026/01/17-17:10:26.330 38c0 Creating DB C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\shared_proto_db since it was missing.
+2026/01/17-17:10:26.785 38c0 Reusing MANIFEST C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\shared_proto_db/MANIFEST-000001
+2026/01/17-17:10:26.792 38c0 Recovering log #3
+2026/01/17-17:10:26.816 38c0 Reusing old log C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\shared_proto_db/000003.log 

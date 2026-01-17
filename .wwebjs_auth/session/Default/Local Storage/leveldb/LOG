@@ -1,5 +1,5 @@
-2026/01/17-16:30:52.701 3d20 Reusing MANIFEST C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2026/01/17-16:30:52.717 3d20 Recovering log #3
-2026/01/17-16:30:52.728 3d20 Level-0 table #3: started
-2026/01/17-16:30:52.777 3d20 Level-0 table #3: 16386 bytes OK
-2026/01/17-16:30:52.788 3d20 Delete type=0 #3
+2026/01/17-17:10:25.868 1624 Creating DB C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2026/01/17-17:10:26.867 1624 Reusing MANIFEST C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/17-17:10:26.902 1624 Recovering log #4
+2026/01/17-17:10:26.925 1624 Reusing old log C:\Users\Shree\Documents\GitHub\neweh\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2026/01/17-17:10:26.937 1624 Delete type=2 #3
