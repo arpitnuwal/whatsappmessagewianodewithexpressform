@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WhatsApp Send</title>
+</head>
+<body>
+  <h2>Send WhatsApp Message</h2>
+
+  <% if (isReady) { %>
+    <p style="color: green;">WhatsApp Ready ✅</p>
+  <% } else { %>
+    <p style="color: red;">WhatsApp Not Ready ❌ (Scan QR)</p>
+  <% } %>
+
+  <form action="/send" method="POST">
+    <input type="text" name="number" placeholder="Enter number (e.g., 919876543210)" required>
+    <br><br>
+    <textarea name="message" placeholder="Type your message" required></textarea>
+    <br><br>
+    <button type="submit" <% if (!isReady) { %> disabled <% } %> >Send</button>
+  </form>
+</body>
+</html>
